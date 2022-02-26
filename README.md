@@ -1,7 +1,7 @@
 # EURON 2기 `스터디: 자연어처리`팀
 
 ## 임원진
-- **[구미진](https://github.com/win2dvp21)**
+- **[이승연](https://github.com/win2dvp21)**
 - **[이다현](https://github.com/hopebii)**
 - **[장예서](https://github.com/yesyeseo)**
 
